@@ -5,7 +5,7 @@ export const Header = () => {
     <HeaderWrapper>
       <Nav>
         <StyledLink to="/">Home</StyledLink>
-        <StyledLink to="/catalog">Teachers</StyledLink>
+        <StyledLink to="/teachers">Teachers</StyledLink>
         <StyledLink to="/favorites">Favorites</StyledLink>
       </Nav>
     </HeaderWrapper>
