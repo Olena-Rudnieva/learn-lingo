@@ -6,10 +6,7 @@ export const StyledList = styled.ul`
   justify-content: center;
   gap: 100px;
   padding: 40px 122px;
-  border-radius: 15px;
-  /* border: 1.5px dashed var(--olive); */
-  /* border-image: linear-gradient(to right, #fff 40%, red 40%) 1;
-  background-size: 10px 1px; */
+  border-radius: 12px;
   background-image: repeating-linear-gradient(
       to right,
       var(--olive) 0%,

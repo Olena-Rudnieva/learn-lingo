@@ -5,9 +5,11 @@
   --semiblack: #8a8a89;
   --olive: #9fbaae;
   --accent: #cbded3;
+  --green: #38cd3e;
   --dark-grey: rgba(18, 20, 23, 0.7);
   --transition: cubic-bezier(0.4, 0, 0.2, 1);
   --background-grey: #f8f8f8;
+  --background-white: #ffffff;
 }
 
 body {

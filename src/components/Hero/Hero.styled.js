@@ -50,23 +50,6 @@ export const Text = styled.p`
   margin-bottom: 64px;
 `;
 
-export const Button = styled.button`
-  background-color: var(--olive);
-  color: var(--black);
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.56;
-  border: none;
-  border-radius: 12px;
-  padding: 16px 88px;
-  transition: background-color 250ms var(--transition);
-
-  &:hover,
-  &:focus {
-    background: var(--accent);
-  }
-`;
-
 export const Image = styled.img`
   width: 568px;
   height: 530px;

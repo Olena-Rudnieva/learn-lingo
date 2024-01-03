@@ -10,6 +10,7 @@ export const HeaderWrapper = styled.header`
 export const Nav = styled.nav`
   display: flex;
   justify-content: space-between;
+  align-items: center;
   gap: 28px;
 `;
 
