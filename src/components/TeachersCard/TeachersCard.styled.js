@@ -87,3 +87,7 @@ export const ReadMoreBtn = styled.button`
   padding: 0;
   margin-bottom: 32px;
 `;
+
+export const ButtonWrapper = styled.div`
+  margin-top: 32px;
+`;
